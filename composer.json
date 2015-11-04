@@ -1,0 +1,17 @@
+{
+    "name": "sprout/exl_pro_customers",
+    "description": "EXL Pro Customers form processor",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "~1.0",
+        "bigcommerce/api": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
