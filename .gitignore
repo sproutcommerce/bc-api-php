@@ -2,6 +2,8 @@
 composer.phar
 vendor/
 
+.env
+
 #OS files
 .DS_Store
 .AppleDouble
